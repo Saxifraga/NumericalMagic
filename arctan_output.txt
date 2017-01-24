@@ -1,0 +1,120 @@
+﻿Results for arctan method for finding pi. Number of terms refers to the number of Maclaurin series terms used to get the estimate. 
+
+1 terms
+estimate of pi: 4.0
+
+
+2 terms
+true relative error: 15.1173636843 %
+approximate relative error: 50.0 %
+estimate of pi: 2.66666666667
+
+
+3 terms
+true relative error: 10.3474272104 %
+approximate relative error: 23.0769230769 %
+estimate of pi: 3.46666666667
+
+
+4 terms
+true relative error: 7.84170914298 %
+approximate relative error: 19.7368421053 %
+estimate of pi: 2.89523809524
+
+
+5 terms
+true relative error: 6.30539690963 %
+approximate relative error: 13.3079847909 %
+estimate of pi: 3.33968253968
+
+
+6 terms
+true relative error: 5.2695080425 %
+approximate relative error: 12.2187742436 %
+estimate of pi: 2.97604617605
+
+
+7 terms
+true relative error: 4.52464230161 %
+approximate relative error: 9.37018307688 %
+estimate of pi: 3.28373848374
+
+
+8 terms
+true relative error: 3.96362132995 %
+approximate relative error: 8.83859194726 %
+estimate of pi: 3.01707181707
+
+
+9 terms
+true relative error: 3.52602305084 %
+approximate relative error: 7.2345523957 %
+estimate of pi: 3.25236593472
+
+
+10 terms
+true relative error: 3.17523771092 %
+approximate relative error: 6.92101958563 %
+estimate of pi: 3.04183961893
+
+
+11 terms
+true relative error: 2.8878077402 %
+approximate relative error: 5.89287067563 %
+estimate of pi: 3.23231580941
+
+
+12 terms
+true relative error: 2.64801636735 %
+approximate relative error: 5.68640093502 %
+estimate of pi: 3.05840276593
+
+
+13 terms
+true relative error: 2.44494181159 %
+approximate relative error: 4.9714100949 %
+estimate of pi: 3.21840276593
+
+
+14 terms
+true relative error: 2.27076020594 %
+approximate relative error: 4.82527238263 %
+estimate of pi: 3.07025461778
+
+
+15 terms
+true relative error: 2.1197209828 %
+approximate relative error: 4.29934702767 %
+estimate of pi: 3.20818565226
+
+
+16 terms
+true relative error: 1.98750335506 %
+approximate relative error: 4.19051088223 %
+estimate of pi: 3.0791533942
+
+
+17 terms
+true relative error: 1.87079829565 %
+approximate relative error: 3.78744617227 %
+estimate of pi: 3.20036551541
+
+
+18 terms
+true relative error: 1.76702897502 %
+approximate relative error: 3.7032650369 %
+estimate of pi: 3.08607980112
+
+
+19 terms
+true relative error: 1.67415898373 %
+approximate relative error: 3.38452561904 %
+estimate of pi: 3.19418790923
+
+
+20 terms
+true relative error: 1.59055779765 %
+approximate relative error: 3.31748327021 %
+estimate of pi: 3.09162380667
+
+
