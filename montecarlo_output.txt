@@ -1,0 +1,43 @@
+Output of Monte Carlo Method for calculating pi (lab1_montecarlo.py)
+Ten iterations, with 4 digits of precision
+(Real value of pi 3.14159 rounds to 3.142)
+
+Iteration 1
+Full estimate 3.14170634
+Rounded estimate 3.142
+
+Iteration 2
+Full estimate 3.141585616
+Rounded estimate 3.142
+
+Iteration 3
+Full estimate 3.141619024
+Rounded estimate 3.142
+
+Iteration 4
+Full estimate 3.141536372
+Rounded estimate 3.142
+
+Iteration 5
+Full estimate 3.141642284
+Rounded estimate 3.142
+
+Iteration 6
+Full estimate 3.141603904
+Rounded estimate 3.142
+
+Iteration 7
+Full estimate 3.1415775
+Rounded estimate 3.142
+
+Iteration 8
+Full estimate 3.141545868
+Rounded estimate 3.142
+
+Iteration 9
+Full estimate 3.141635076
+Rounded estimate 3.142
+
+Iteration 10
+Full estimate 3.1416339
+Rounded estimate 3.142
