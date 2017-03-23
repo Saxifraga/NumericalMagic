@@ -108,29 +108,9 @@ def gaussian_elimination(A, b):
 ######################################################################
 
 
-# A = np.matrix([ [  1, -2, 4 ],
-#                 [  8, 4, 12 ],
-#                 [ -2, 1,  0 ] ], dtype=float )
-#
-# b = np.matrix([-4, 28, -6]).transpose()
 
-# A1 = np.matrix('0.0 3.0 2.0 1.0; 4.0 0.0 7.0 5.0; 8.0 2.0 0.0 2.0; 0.0 1.0 2.0 0.0')
-# A2 = np.matrix('0.0 2.0 6.0 1.0 2.0; 2.0 0.0 3.0 2.0 4.0; 9.0 5.0 0.0 3.0 5.0; 4.0 8.0 4.0 0.0 8.0; 1.0 0.0 0.0 4.0 0.0')
-# b1 = np.matrix('-3.0; 2.0; -2.0; -5.0')
-# b2 = np.matrix('7.0; -13.0; 7.0; -4.0; -8.0')
-#
-# x1 = gaussian_elimination(A1, b1)
-# x2 = gaussian_elimination(A2, b2)
-# print "Gaussian Elimination for matrix A1, solution b1:"
-# print 'A=\n', A1
-# print
-# print 'b=', b1
-# print 'x=', x1
-# print 'residual:', np.linalg.norm(A1*x1 - b1)**2
-# print "Gaussian Elimination for matrix A2, solution b2:"
-# print 'A=\n', A2
-# print
-# print 'b=', b2
-# print 'x=', x2
-# print 'residual:', np.linalg.norm(A2*x2 - b2)**2
-#residual should be 0, I think
+A = np.matrix('2.0 1.0 0.0 0.0; 1.0 4.0 1.0 0.0; 0.0 1.0 4.0 1.0; 0.0 0.0 1.0 2.0')
+b = np.matrix('3.0; 12.0; 24.0; 15.0')
+d = gaussian_elimination(A, b)
+print d
+print 'residual:', np.linalg.norm(A*d - b)**2
